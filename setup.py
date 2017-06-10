@@ -9,7 +9,7 @@ setup(
     name = "idocker",
     version = "0.1",
     packages = ["idocker"],
-    scripts = ['bin/idocker'],
+    scripts = ['idocker/idocker.py'],
     # Project uses reStructuredText, so ensure that the docutils get
     # installed or upgraded on the target machine
     setup_requires = [],
