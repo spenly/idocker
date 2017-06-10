@@ -1,0 +1,8 @@
+#!/usr/bin/env python
+# encoding=utf8
+# author=spenly
+# mail=i@spenly.com
+
+import idocker
+
+idocker.main()
